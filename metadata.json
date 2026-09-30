@@ -1,0 +1,6 @@
+{
+  "name": "Tariq Shoes & Wholesale Dealer",
+  "description": "Offline-first shoe inventory, wholesale sales, QR scanning, customer credit and POS invoice management system for Tariq Shoes & Wholesale Dealer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
